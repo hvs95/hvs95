@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hvs95
+- 👋 Hi, I’m Harshvardhan, or HV
 - 👀 I’m interested in exploring and expanding the application of analytics in football (soccer)! 
 - 🌱 I have recently begun my journey to become a data analyst. I'm currently learning multiple programming languages (Python, SQL, R) as well as BI tools like Tableau and PowerBI 
 - ⚽ My dream is to work in the field of football analytics
